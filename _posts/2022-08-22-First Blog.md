@@ -13,7 +13,7 @@ On Thursday, I learned with Mr. Jonathan who was a senior lecturer at RMIT Vietn
 ![Picture](/assets/images/Image-1.png)
 
 <!-- Paragraph 2: Evaluate & Analysis -->
-On the positive side, my partner was ready to help me to understand the lesson and guide me in the vocabulary that gets to the main point. On the negative side, I could not contribute my ideas to actively participate during class activities and I sit too far away from the lecturer to help myself feel confident in my listening and group work skills. The introduction to science and technology lesson was fun because I met a new lecturer and classmates. Also, Konopka (1960) concludes that the main purpose of teamwork is cooperation and experience through a think pair share activity <a href="#1">(1)</a>, I have learned from others creative thinking, diverse vocabulary skills, and programming experience. 
+On the positive side, my partner was ready to help me to understand the lesson and guide me in the vocabulary that gets to the main point. On the negative side, I could not contribute my ideas to actively participate during class activities and I sit too far away from the lecturer to help myself feel confident in my listening and group work skills. The introduction to science and technology lesson was fun because I met a new lecturer and classmates. Also, Konopka (1960) <a href="#1">(1)</a> concludes that the main purpose of teamwork is cooperation and experience through a think pair share activity, I have learned from others creative thinking, diverse vocabulary skills, and programming experience. 
 ![Picture](/assets/images/Image-2.png)
 
 <!-- Paragraph 3: Conclusion & Action Plan -->
@@ -28,5 +28,5 @@ As the result, I could learn about the foundations of science and technology thr
 ### <center>Reference</center>
 Konopka, G. (1960). Social Group Work: A Social Work Method. Social Work, 5(4), 53–61. 
 <a href="http://www.jstor.org/stable/23707701">
-<span style="color:light-blue;" >http://www.jstor.org/stable/23707701</span> 
+<span style="color:light-blue;" >http://www.jstor.org/stable/23707701.</span> 
 <span id="1">(1)</span>
